@@ -6,8 +6,8 @@
     "maintainer": "Arduino <info@arduino.cc>",
     "category": "Audio",
     "subcategory": "Control",
-    "family": "arm-sam",
-    "core": "arduino-sam",
+    "family": "arm-samd",
+    "core": "arduino-samd",
     "install": {
         "examples": "/",
         "keywords.txt": "/",

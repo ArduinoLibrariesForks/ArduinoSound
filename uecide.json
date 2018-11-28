@@ -1,0 +1,18 @@
+{
+    "name": "ArduinoSound",
+    "provides": "ArduinoSound.h",
+    "description": "[EXPERIMENTAL] A simple way to play and analyze audio data using Arduino.",
+    "version": "0.2.0",
+    "maintainer": "Arduino <info@arduino.cc>",
+    "category": "Audio",
+    "subcategory": "Control",
+    "family": "arm-sam",
+    "core": "arduino-sam",
+    "install": {
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "src": "/"
+    },
+    "readme": "README.md"
+}
